@@ -5,6 +5,6 @@ public class SimpleInterest {
         double r=5.0;
         double SI=(p*t*r)/100;
         System.out.println("Simple interest is: " + SI);
-
+        System.out.println("this is master branch");
     }
 }
